@@ -1,0 +1,11 @@
+# MacOS
+.DS_Store
+
+# IntelliJ
+.idea/
+
+# Terraform
+*.tfstate*
+*terraform*
+test.tf
+*test*
